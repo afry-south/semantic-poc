@@ -1,0 +1,4 @@
+huggingface
+sentence-transformers
+elasticsearch
+autofaiss

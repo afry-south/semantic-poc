@@ -1,0 +1,5 @@
+.vscode
+embeddings*
+__pycache__
+docs
+pdfs
